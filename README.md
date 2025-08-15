@@ -71,7 +71,7 @@ Proficient in **Python, SQL, NLP, Predictive Analytics, Data Modeling, and Visua
 ---
 
 ## 🎓 Certifications
-**Repo:** [View Code][https://github.com/nitinkishore1509/Certifications/tree/main](#)
+**Repo:** [View Code](https://github.com/nitinkishore1509/Certifications/tree/main)
 - Executive Post Graduate Certification in AI & Machine Learning – IIT Roorkee  
 - Artificial Intelligence Certification  
 - Data Science Certification  
