@@ -34,49 +34,39 @@ Proficient in **Python, SQL, NLP, Predictive Analytics, Data Modeling, and Visua
 
 ## 📂 Projects
 
-### 1. Retrieval-Augmented Generation (RAG) Chatbot  
-**Repo:** [https://github.com/nitinkishore1509/ChatBot](#)  
-- Developed using NLP and TF-IDF Vectorization, achieving **90% query response accuracy**.  
-- Applied feature engineering and hyperparameter tuning for optimized performance.
+## 🔭 Featured Projects
+
+- **RAG-Based Chatbot** — Retrieval-Augmented Generation with NLP + TF-IDF; ~90% response relevance on internal evals.  
+  [View Code](https://github.com/nitinkishore1509/ChatBot/tree/main) • Techniques: RAG, TF-IDF, feature engineering, hyperparameter tuning.
+
+- **USD–INR Exchange Rate Forecasting** — ARIMA/SARIMA pipeline; ~5% error with careful data cleaning & feature selection.  
+  [View Notebook](https://github.com/nitinkishore1509/Currency-Exchange-Rate-Forecasting-USD-INR-/blob/main/USD_INR_Forecasting.ipynb) • Time series, model diagnostics, validation.
+
+- **Fake News Detection (LSTM + NLP)** — End-to-end text classification; ~85% accuracy on public dataset.  
+  [View LSTM Code](https://github.com/nitinkishore1509/Fake-News-Prediction-NLP_LSTM/blob/main/Fake_News_LSTM.ipynb) | [View ML Models Code](https://github.com/nitinkishore1509/Fake-News-Prediction-using-NLP-and-Classification-ML-Models/blob/main/Fake_News_ML.ipynb)
+
+- **Car Price Prediction** — Linear/Ridge/Lasso with feature engineering; Test R² ≈ 0.82 after tuning.  
+  [View Notebook](https://github.com/nitinkishore1509/Car-Price-Prediction-using-Linear-Ridge-and-Lasso-Regression/blob/main/car_price_prediction.ipynb)
+
+- **Heart Disease Prediction** — Logistic Regression with strong feature prep and evaluation.  
+  [View Notebook](https://github.com/nitinkishore1509/Heart-Disease-Classification/blob/main/heart_disease_prediction.ipynb)
+
+- **Hardware Failure Prediction** — Predictive maintenance on Backblaze-style data; ~80% precision with tree-based models.  
+  [View Code](https://github.com/nitinkishore1509/Hardware-Failure-Prediction/tree/main)
+
+- **Fashion-MNIST (Keras)** — CNN workflow: preprocessing → training → evaluation → visualization.  
+  [View Notebook](https://github.com/nitinkishore1509/Fashion-MNIST-DL-Keras/blob/main/Fashion_MNIST.ipynb)
+
+- **Screen Time Impact (EDA)** — Behavioral analytics; thresholds where usage turns adverse.  
+  [View Notebook](https://github.com/nitinkishore1509/ScreenTime_Impact-on-Indian-Kids/blob/main/screentime_impact_analysis.ipynb)
+
+- **Career Adaptation in the Era of AI (EDA)** — Synthetic workforce data; decision logic for AI upskilling.  
+  [View Notebook](https://github.com/nitinkishore1509/career_adaptation_in_the_era_of_AI_automation/blob/main/career_adaptation_analysis.ipynb)
+
+- **Housing Price Prediction (Linear Regression)** — Exploratory analysis, feature engineering, model training & evaluation.  
+  [View Notebook](https://github.com/nitinkishore1509/House-Price-Prediction/blob/main/housing_price_prediction.ipynb)
 
 ---
-
-### 2. Currency Exchange Rate Forecasting (USD-INR)  
-**Repo:** [https://github.com/nitinkishore1509/Currency-Exchange-Rate-Forecasting-USD-INR-](#)  
-- Created **ARIMA & SARIMA models** for time series forecasting with a **5% error rate**.  
-- Implemented advanced feature engineering and rigorous model validation.
-
----
-
-### 3. Fake News Detection (NLP + LSTM)  
-**Repo:** [https://github.com/nitinkishore1509/Fake-News-Prediction-NLP_LSTM](#)  
-- Built LSTM model with TF-IDF vectorization, achieving **85% accuracy**.  
-- Developed an end-to-end NLP pipeline for classification.
-
----
-
-### 4. Hardware Failure Prediction  
-**Repo:** [https://github.com/nitinkishore1509/Hardware-Failure-Prediction](#)  
-- Designed predictive maintenance model using Backblaze dataset.  
-- Achieved **80% precision** in failure detection using Decision Trees and statistical analysis.
-
----
-
-### 5. Fashion MNIST Classification (Deep Learning – Keras)  
-**Repo:** [https://github.com/nitinkishore1509/Fashion-MNIST-DL-Keras](#)  
-- Preprocessed dataset, trained CNN model, and visualized results.  
-- Used Keras for building and evaluating the deep learning model.
-
----
-
-### 6. Screen Time Impact Analysis (EDA)  
-**Repo:** [https://github.com/nitinkishore1509/ScreenTime_Impact-on-Indian-Kids](#)  
-- Conducted large-scale dataset analysis to identify correlations between screen usage and health.  
-- Highlighted key thresholds for negative impacts on productivity and well-being.
-
-### 7. Car Price Prediction**   
-  **Repo:** `github.com/nitinkishore1509/Car-Price-Prediction-using-Linear-Ridge-and-Lasso-Regression` :contentReference[oaicite:4]{index=4}
-  — Linear/Ridge/Lasso with feature engineering; Test R² ≈ 0.82 after tuning.
 
 ---
 
