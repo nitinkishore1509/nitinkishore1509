@@ -74,6 +74,10 @@ Proficient in **Python, SQL, NLP, Predictive Analytics, Data Modeling, and Visua
 - Conducted large-scale dataset analysis to identify correlations between screen usage and health.  
 - Highlighted key thresholds for negative impacts on productivity and well-being.
 
+### 7. Car Price Prediction**   
+  **Repo:** `github.com/nitinkishore1509/Car-Price-Prediction-using-Linear-Ridge-and-Lasso-Regression` :contentReference[oaicite:4]{index=4}
+  — Linear/Ridge/Lasso with feature engineering; Test R² ≈ 0.82 after tuning.
+
 ---
 
 ## 🎓 Certifications
