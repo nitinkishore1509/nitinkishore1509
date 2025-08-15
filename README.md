@@ -40,38 +40,38 @@ Proficient in **Python, SQL, NLP, Predictive Analytics, Data Modeling, and Visua
   [View Code](https://github.com/nitinkishore1509/ChatBot/tree/main) • Techniques: RAG, TF-IDF, feature engineering, hyperparameter tuning.
 
 - **USD–INR Exchange Rate Forecasting** — ARIMA/SARIMA pipeline; ~5% error with careful data cleaning & feature selection.  
-  [View Notebook](https://github.com/nitinkishore1509/Currency-Exchange-Rate-Forecasting-USD-INR-/blob/main/USD_INR_Forecasting.ipynb) • Time series, model diagnostics, validation.
+  [View Code](https://github.com/nitinkishore1509/Currency-Exchange-Rate-Forecasting-USD-INR-/tree/main) • Time series, model diagnostics, validation.
 
 - **Fake News Detection (LSTM + NLP)** — End-to-end text classification; ~85% accuracy on public dataset.  
-  [View LSTM Code](https://github.com/nitinkishore1509/Fake-News-Prediction-NLP_LSTM/blob/main/Fake_News_LSTM.ipynb) | [View ML Models Code](https://github.com/nitinkishore1509/Fake-News-Prediction-using-NLP-and-Classification-ML-Models/blob/main/Fake_News_ML.ipynb)
+  [View Code (LSTM)](https://github.com/nitinkishore1509/Fake-News-Prediction-NLP_LSTM/tree/main) | [View Code (ML Models)](https://github.com/nitinkishore1509/Fake-News-Prediction-using-NLP-and-Classification-ML-Models/tree/main)
 
 - **Car Price Prediction** — Linear/Ridge/Lasso with feature engineering; Test R² ≈ 0.82 after tuning.  
-  [View Notebook](https://github.com/nitinkishore1509/Car-Price-Prediction-using-Linear-Ridge-and-Lasso-Regression/blob/main/car_price_prediction.ipynb)
+  [View Code](https://github.com/nitinkishore1509/Car-Price-Prediction-using-Linear-Ridge-and-Lasso-Regression/tree/main)
 
 - **Heart Disease Prediction** — Logistic Regression with strong feature prep and evaluation.  
-  [View Notebook](https://github.com/nitinkishore1509/Heart-Disease-Classification/blob/main/heart_disease_prediction.ipynb)
+  [View Code](https://github.com/nitinkishore1509/Heart-Disease-Classification/tree/main)
 
 - **Hardware Failure Prediction** — Predictive maintenance on Backblaze-style data; ~80% precision with tree-based models.  
   [View Code](https://github.com/nitinkishore1509/Hardware-Failure-Prediction/tree/main)
 
 - **Fashion-MNIST (Keras)** — CNN workflow: preprocessing → training → evaluation → visualization.  
-  [View Notebook](https://github.com/nitinkishore1509/Fashion-MNIST-DL-Keras/blob/main/Fashion_MNIST.ipynb)
+  [View Code](https://github.com/nitinkishore1509/Fashion-MNIST-DL-Keras/tree/main)
 
 - **Screen Time Impact (EDA)** — Behavioral analytics; thresholds where usage turns adverse.  
-  [View Notebook](https://github.com/nitinkishore1509/ScreenTime_Impact-on-Indian-Kids/blob/main/screentime_impact_analysis.ipynb)
+  [View Code](https://github.com/nitinkishore1509/ScreenTime_Impact-on-Indian-Kids/tree/main)
 
 - **Career Adaptation in the Era of AI (EDA)** — Synthetic workforce data; decision logic for AI upskilling.  
-  [View Notebook](https://github.com/nitinkishore1509/career_adaptation_in_the_era_of_AI_automation/blob/main/career_adaptation_analysis.ipynb)
+  [View Code](https://github.com/nitinkishore1509/career_adaptation_in_the_era_of_AI_automation/tree/main)
 
 - **Housing Price Prediction (Linear Regression)** — Exploratory analysis, feature engineering, model training & evaluation.  
-  [View Notebook](https://github.com/nitinkishore1509/House-Price-Prediction/blob/main/housing_price_prediction.ipynb)
+  [View Code](https://github.com/nitinkishore1509/House-Price-Prediction/tree/main)
 
 ---
 
 ---
 
 ## 🎓 Certifications
-**Repo:**[https://github.com/nitinkishore1509/Certifications/tree/main](#) 
+**Repo:** [View Code][https://github.com/nitinkishore1509/Certifications/tree/main](#)
 - Executive Post Graduate Certification in AI & Machine Learning – IIT Roorkee  
 - Artificial Intelligence Certification  
 - Data Science Certification  
