@@ -17,8 +17,9 @@ Proficient in **Python, SQL, NLP, Predictive Analytics, Data Modeling, and Visua
 - Python, SQL, MS SQL Server, Pandas, NumPy, SciPy, TensorFlow, Scikit-learn, Keras, Jupyter Notebook, Google Colab
 
 ### Machine Learning & AI
-- Regression, Decision Trees, Random Forest, Gradient Boosting, SVM, KNN, Naive Bayes, K-Means  
-- Time Series Analysis (ARIMA, SARIMA)  
+
+ -Linear Regression, Logistic Regression, Lasso Regression, Ridge Regression, Decision Trees, Random Forest, Gradient Boosting, Support Vector Machines
+ (SVM), K-Nearest Neighbors (KNN), Naive Bayes, K-Means Clustering, 
 - Deep Learning (LSTM, CNN)  
 - Retrieval-Augmented Generation (RAG)  
 - NLP, TF-IDF Vectorization, Hyperparameter Tuning, Model Evaluation
@@ -34,7 +35,7 @@ Proficient in **Python, SQL, NLP, Predictive Analytics, Data Modeling, and Visua
 ## 📂 Projects
 
 ### 1. Retrieval-Augmented Generation (RAG) Chatbot  
-**Repo:** [RAG-Based Chatbot](#)  
+**Repo:** [Chatbot](#)  
 - Developed using NLP and TF-IDF Vectorization, achieving **90% query response accuracy**.  
 - Applied feature engineering and hyperparameter tuning for optimized performance.
 
