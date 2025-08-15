@@ -35,48 +35,49 @@ Proficient in **Python, SQL, NLP, Predictive Analytics, Data Modeling, and Visua
 ## 📂 Projects
 
 ### 1. Retrieval-Augmented Generation (RAG) Chatbot  
-**Repo:** [Chatbot](#)  
+**Repo:** [https://github.com/nitinkishore1509/ChatBot](#)  
 - Developed using NLP and TF-IDF Vectorization, achieving **90% query response accuracy**.  
 - Applied feature engineering and hyperparameter tuning for optimized performance.
 
 ---
 
 ### 2. Currency Exchange Rate Forecasting (USD-INR)  
-**Repo:** [Currency-Exchange-Forecasting](#)  
+**Repo:** [https://github.com/nitinkishore1509/Currency-Exchange-Rate-Forecasting-USD-INR-](#)  
 - Created **ARIMA & SARIMA models** for time series forecasting with a **5% error rate**.  
 - Implemented advanced feature engineering and rigorous model validation.
 
 ---
 
 ### 3. Fake News Detection (NLP + LSTM)  
-**Repo:** [Fake-News-Prediction-NLP_LSTM](#)  
+**Repo:** [https://github.com/nitinkishore1509/Fake-News-Prediction-NLP_LSTM](#)  
 - Built LSTM model with TF-IDF vectorization, achieving **85% accuracy**.  
 - Developed an end-to-end NLP pipeline for classification.
 
 ---
 
 ### 4. Hardware Failure Prediction  
-**Repo:** [Hardware-Failure-Prediction](#)  
+**Repo:** [https://github.com/nitinkishore1509/Hardware-Failure-Prediction](#)  
 - Designed predictive maintenance model using Backblaze dataset.  
 - Achieved **80% precision** in failure detection using Decision Trees and statistical analysis.
 
 ---
 
 ### 5. Fashion MNIST Classification (Deep Learning – Keras)  
-**Repo:** [Fashion-MNIST-DL-Keras](#)  
+**Repo:** [https://github.com/nitinkishore1509/Fashion-MNIST-DL-Keras](#)  
 - Preprocessed dataset, trained CNN model, and visualized results.  
 - Used Keras for building and evaluating the deep learning model.
 
 ---
 
 ### 6. Screen Time Impact Analysis (EDA)  
-**Repo:** [ScreenTime_Impact](#)  
+**Repo:** [https://github.com/nitinkishore1509/ScreenTime_Impact-on-Indian-Kids](#)  
 - Conducted large-scale dataset analysis to identify correlations between screen usage and health.  
 - Highlighted key thresholds for negative impacts on productivity and well-being.
 
 ---
 
 ## 🎓 Certifications
+**Repo:**[https://github.com/nitinkishore1509/Certifications](#) 
 - Executive Post Graduate Certification in AI & Machine Learning – IIT Roorkee  
 - Artificial Intelligence Certification  
 - Data Science Certification  
